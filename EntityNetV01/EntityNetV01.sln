@@ -1,9 +1,11 @@
-
+﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityNetV01", "EntityNetV01.csproj", "{039E1308-80AA-4836-ACA6-13E13E5E4C25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealTimeChat", "..\RealTimeChat\RealTimeChat\RealTimeChat.csproj", "{0E680C3B-D93F-4741-B973-0F5F6C33F1D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +20,9 @@ Global
 		{039E1308-80AA-4836-ACA6-13E13E5E4C25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{039E1308-80AA-4836-ACA6-13E13E5E4C25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{039E1308-80AA-4836-ACA6-13E13E5E4C25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E680C3B-D93F-4741-B973-0F5F6C33F1D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E680C3B-D93F-4741-B973-0F5F6C33F1D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E680C3B-D93F-4741-B973-0F5F6C33F1D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E680C3B-D93F-4741-B973-0F5F6C33F1D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
