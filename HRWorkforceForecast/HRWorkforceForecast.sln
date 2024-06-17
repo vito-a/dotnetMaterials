@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkforceForecast", "WorkforceForecast\WorkforceForecast.csproj", "{0F5A2573-CB4C-460D-A729-626F4D0BC637}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F5A2573-CB4C-460D-A729-626F4D0BC637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F5A2573-CB4C-460D-A729-626F4D0BC637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F5A2573-CB4C-460D-A729-626F4D0BC637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F5A2573-CB4C-460D-A729-626F4D0BC637}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
